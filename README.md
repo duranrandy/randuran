@@ -8,7 +8,7 @@ I am a software developer based in Germany, mainly focused on Backend technologi
 
 ### 🇪🇸 Hola! me llamo Randy Durán  👋
 
-Soy un desarrollador de software viviendo en Alemania, centrado principalmente en tecnologías de Backend. Currently, Actualmente construyo aplicaciones full-stack con Laravel y Livewire.
+Soy un desarrollador de software viviendo en Alemania, centrado principalmente en tecnologías de Backend. Actualmente construyo aplicaciones full-stack con Laravel y Livewire.
 
 - 🛠 Actualmente estoy trabajando en Page builder para laravel usando Livewire y AlpineJs.
 
