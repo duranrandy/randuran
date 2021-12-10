@@ -1,5 +1,8 @@
 ### Hi there! My name is Randy  👋
 
+Soy un desarrollador de software con sede en Alemania, centrado principalmente en las tecnologías de Backend. Currently, I build full-stack applications with Laravel and Livewire. 
+
+
 <!--
 **randuran/randuran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
