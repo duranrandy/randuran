@@ -10,7 +10,7 @@ I am a software developer based in Germany, mainly focused on Backend technologi
 
 Soy un desarrollador de software viviendo en Alemania, centrado principalmente en tecnologías de Backend. Actualmente construyo aplicaciones full-stack con Laravel y Livewire.
 
-- 🛠 Actualmente estoy trabajando en Page builder para laravel usando Livewire y AlpineJs.
+- 🛠 Actualmente estoy trabajando en un Page builder para laravel usando Livewire y AlpineJs.
 
 <!--
 **randuran/randuran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
