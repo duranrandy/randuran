@@ -2,10 +2,13 @@
 
 I am a software developer based in Germany, mainly focused on Backend technologies. Currently, I build full-stack applications with Laravel and Livewire.
 
+- 🛠 I am currently working on a page builder for laravel with Livewire and AlpineJs.
 
 ### 🇪🇸 Hola! me llamo Randy Durán  👋
 
 Soy un desarrollador de software viviendo en Alemania, centrado principalmente en tecnologías de Backend. Currently, Actualmente construyo aplicaciones full-stack con Laravel y Livewire.
+
+- 🛠 Actualmente estoy trabajando en Page builder para laravel usando Livewire y AlpineJs.
 
 <!--
 **randuran/randuran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
