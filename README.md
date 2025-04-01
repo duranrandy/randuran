@@ -1,28 +1,24 @@
-### 🇺🇸 Hi there! My name is Randy Durán  👋
+# Hey, I'm Randy Duran 👋
 
-I am a software developer based in Germany, mainly focused on Backend technologies. Currently, I build full-stack applications with Laravel and Livewire.
+I'm a cloud-focused developer working at the intersection of clean code, thoughtful architecture, and real-world impact.
 
-- 🛠 I am currently working on a page builder for Laravel with Livewire and AlpineJs.
+### 🧰 My Toolbox
+- **Languages & Frameworks:** TypeScript, Python, Node.js, Flask, FastAPI  
+- **Cloud & DevOps:** AWS, Docker, CI/CD, PostgreSQL  
+- **What I value:** Clarity, scalability, and simplicity in every line of code
 
----
+### 🔍 What Drives Me
+I build backends with brains — systems that aren’t just scalable, but **understandable**, **intentional**, and **built to last**.  
+In a world chasing automation, I focus on meaning — building tools that make sense to the people who use them and maintain them.
 
-### 🇪🇸 Hola! me llamo Randy Durán  👋
+I believe great software balances architecture with empathy. It's not just about getting things done, but understanding *why* they should be done at all.
 
-Soy un desarrollador de software viviendo en Alemania, centrado principalmente en tecnologías de Backend. Actualmente construyo aplicaciones full-stack con Laravel y Livewire.
+### 🚀 What I'm Building
+- Soon
 
-- 🛠 Actualmente estoy trabajando en un Page builder para Laravel usando Livewire y AlpineJs.
+### 🧠 Always Learning
+From clean backend design to smarter tooling, I’m always evolving how I think and build.  
+Not everything should scale infinitely — some things just need to make sense.
 
-<!--
-**randuran/randuran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Let's Connect
+Open to collaboration, freelancing, or a good tech chat.
